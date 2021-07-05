@@ -1,0 +1,762 @@
+@media only screen and (max-width: 2560px) {
+    /* --------------------------------
+                header section
+    -------------------------------- */
+    header {
+        height: 1100px;
+        width: 1920;
+    }
+    .top-row {
+        padding: 0px 50px;
+    }
+    .hero-text-box {
+        font-size: 150%;
+        padding: 200px 50px 300px 50px;
+    }
+    /* --------------------------------
+                features section
+    -------------------------------- */
+    .section-features {
+        padding: 0 300px;
+        height: 1000px;
+        font-size: 150%;
+    }
+    /* --------------------------------
+                meals section
+    -------------------------------- */
+    .section-meals {
+        height: 994px;
+    }
+    /* --------------------------------
+                steps section
+    -------------------------------- */
+    .section-steps {
+        font-size: 100%;
+        height: 1300px;
+    }
+    /* --------------------------------
+                cities section
+    -------------------------------- */
+    .section-cities {
+        height: 900px;
+        padding: 0 50px;
+    }
+    /* --------------------------------
+                testimonials section
+    -------------------------------- */
+    .section-testimonials {
+        height: 700px;
+        padding: 0 70px;
+    }
+    /* --------------------------------
+                plans section
+    -------------------------------- */
+    .section-plans {
+        padding: 0px 50px;
+        height: 800px;
+    }
+    .plan-box {
+        width: 80%;
+    }
+    /* --------------------------------
+                form section
+    -------------------------------- */
+    .section-form {
+        height: 700px;
+    }
+    footer {
+        font-size: 100%;
+        height: 150px;
+    }
+    footer .others {
+        padding: 0px 100px;
+    }
+    footer .social-links {
+        padding-right: 300px;
+    }
+}
+
+@media only screen and (max-width: 1920px) {
+    /* --------------------------------
+                header section
+    -------------------------------- */
+    header {
+        height: 980px;
+        width: 1920;
+    }
+    .top-row {
+        padding: 0px 50px;
+    }
+    .hero-text-box {
+        font-size: 100%;
+        padding: 200px 50px 300px 50px;
+    }
+    /* --------------------------------
+                features section
+    -------------------------------- */
+    .section-features {
+        padding: 0 300px;
+        height: 700px;
+        font-size: 100%;
+    }
+    /* --------------------------------
+                meals section
+    -------------------------------- */
+    .section-meals {
+        height: 742px;
+    }
+    /* --------------------------------
+                steps section
+    -------------------------------- */
+    .section-steps {
+        height: 850px;
+    }
+    /* --------------------------------
+                cities section
+    -------------------------------- */
+    .section-cities {
+        height: 800px;
+        padding: 0 50px;
+    }
+    /* --------------------------------
+                testimonials section
+    -------------------------------- */
+    .section-testimonials {
+        height: 600px;
+        padding: 0 70px;
+    }
+    /* --------------------------------
+                plans section
+    -------------------------------- */
+    .section-plans {
+        height: 800px;
+    }
+    /* --------------------------------
+                form section
+    -------------------------------- */
+    .section-form {
+        height: 700px;
+    }
+}
+
+@media only screen and (max-width: 1440px) {
+    /* --------------------------------
+                header section
+    -------------------------------- */
+    header {
+        height: 780px;
+        width: 1920;
+    }
+    .top-row {
+        padding: 0px 50px;
+    }
+    .hero-text-box {
+        font-size: 90%;
+        padding: 150px 50px 300px 50px;
+    }
+    /* --------------------------------
+                features section
+    -------------------------------- */
+    .section-features {
+        padding: 0 200px;
+        height: 700px;
+        font-size: 100%;
+    }
+    /* --------------------------------
+                meals section
+    -------------------------------- */
+    .section-meals {
+        height: 560px;
+    }
+    /* --------------------------------
+                steps section
+    -------------------------------- */
+    .section-steps {
+        height: 850px;
+    }
+    /* --------------------------------
+                cities section
+    -------------------------------- */
+    .section-cities {
+        height: 700px;
+        padding: 0 50px;
+    }
+    /* --------------------------------
+                testimonials section
+    -------------------------------- */
+    .section-testimonials {
+        height: 600px;
+        padding: 0 20px;
+    }
+    /* --------------------------------
+                plans section
+    -------------------------------- */
+    .section-plans {
+        height: 800px;
+    }
+    /* --------------------------------
+                form section
+    -------------------------------- */
+    .section-form {
+        height: 700px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    /* --------------------------------
+                header section
+    -------------------------------- */
+    header {
+        height: 680px;
+        width: 1920;
+    }
+    .top-row {
+        padding: 0px 50px;
+    }
+    .hero-text-box {
+        font-size: 90%;
+        padding: 150px 50px 300px 50px;
+    }
+    .logo {
+        height: 150px;
+    }
+    /* --------------------------------
+                features section
+    -------------------------------- */
+    .section-features {
+        padding: 0 30px;
+        height: 600px;
+        font-size: 80%;
+    }
+    h3 {
+        font-size: 90%;
+    }
+    /* --------------------------------
+                meals section
+    -------------------------------- */
+    .section-meals {
+        height: 396px;
+    }
+    /* --------------------------------
+                steps section
+    -------------------------------- */
+    .section-steps {
+        font-size: 80%;
+        height: 750px;
+    }
+    .btn-app1 img {
+        height: 40px;
+    }
+    .btn-app2 img {
+        height: 42px;
+    }
+    .steps-box {
+        padding-right: 20px;
+    }
+    /* --------------------------------
+                cities section
+    -------------------------------- */
+    .section-cities {
+        height: 600px;
+        padding: 0 50px;
+        font-size: 80%;
+    }
+    /* --------------------------------
+                testimonials section
+    -------------------------------- */
+    .section-testimonials {
+        height: 600px;
+        padding: 0 20px;
+        font-size: 90%;
+    }
+    .section-testimonials blockquote {
+        margin: 0 30px;
+    }
+    /* --------------------------------
+                plans section
+    -------------------------------- */
+    .section-plans {
+        height: 700px;
+    }
+    .plan-box {
+        width: 90%;
+        margin: 0 15px;
+        font-size: 80%;
+    }
+    /* --------------------------------
+                form section
+    -------------------------------- */
+    .section-form {
+        height: 700px;
+    }
+    footer .social-links,
+    footer .others {
+        padding: 0px 30px;
+    }
+    footer p {
+        padding-top: 20px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    /* --------------------------------
+                header section
+    -------------------------------- */
+    header {
+        height: 580px;
+        width: 1920;
+    }
+    .top-row {
+        padding: 0px 50px;
+    }
+    .main-nav {
+        margin-top: 35px;
+        font-size: 80%;
+    }
+    .hero-text-box {
+        font-size: 60%;
+        padding: 150px 50px 170px 50px;
+    }
+    .logo {
+        height: 100px;
+    }
+    /* --------------------------------
+                features section
+    -------------------------------- */
+    .section-features {
+        padding: 0 10px;
+        height: 600px;
+        font-size: 80%;
+    }
+    h3 {
+        font-size: 80%;
+    }
+    /* --------------------------------
+                meals section
+    -------------------------------- */
+    .section-meals {
+        height: 295px;
+        margin-left: -6%;
+    }
+    .meal-photo img:hover,
+    .meal-photo img:active {
+        transform: scale(1.06);
+    }
+    /* --------------------------------
+                steps section
+    -------------------------------- */
+    .section-steps {
+        font-size: 70%;
+        height: 650px;
+    }
+    .btn-app1 img {
+        height: 30px;
+        margin-right: 20px;
+    }
+    .btn-app2 img {
+        height: 32px;
+    }
+    .steps-box {
+        padding-right: 20px;
+    }
+    .app-screen {
+        height: 300px;
+        width: 150px;
+    }
+    /* --------------------------------
+                cities section
+    -------------------------------- */
+    .section-cities {
+        height: 500px;
+        padding: 0 50px;
+        font-size: 60%;
+    }
+    /* --------------------------------
+                testimonials section
+    -------------------------------- */
+    .section-testimonials {
+        height: 450px;
+        padding: 0 20px;
+        font-size: 90%;
+    }
+    .section-testimonials blockquote {
+        margin: 0 10px;
+        font-size: 80%;
+    }
+    /* --------------------------------
+                plans section
+    -------------------------------- */
+    .section-plans {
+        height: 600px;
+        padding: 0px 20px;
+    }
+    .plan-box {
+        width: 95%;
+        margin: 0 7px;
+        font-size: 60%;
+    }
+    h2,
+    h4 {
+        margin: 50px;
+        font-size: 150%;
+    }
+    /* --------------------------------
+                form section
+    -------------------------------- */
+    .section-form {
+        height: 600px;
+        font-size: 80%;
+    }
+    /* --------------------------------
+                footer section
+    -------------------------------- */
+    footer {
+        height: 80px;
+        font-size: 60%;
+    }
+    footer .social-links {
+        padding-right: 50px;
+    }
+    footer .others {
+        padding: 0px 20px;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    /* --------------------------------
+                header section
+    -------------------------------- */
+    header {
+        height: 480px;
+        width: 1920;
+    }
+    .main-nav li {
+        margin: 0%;
+        display: block;
+        padding-bottom: 20px;
+    }
+    .main-nav {
+        margin-top: 35px;
+        font-size: 70%;
+        padding: 0%;
+    }
+    .hero-text-box {
+        font-size: 40%;
+        padding: 70px 50px 50px 50px;
+    }
+    .logo {
+        padding-top: 20px;
+        height: 100px;
+    }
+    .sticky {
+        height: 100px;
+    }
+    .sticky li {
+        padding-bottom: 2px;
+    }
+    .sticky .main-nav li a:link,
+    .sticky .main-nav li a:visited {
+        padding: 3px 0;
+    }
+    .sticky .logo-black {
+        height: 100px;
+    }
+    /* --------------------------------
+                features section
+    -------------------------------- */
+    .section-features {
+        padding: 0 10px;
+        height: 1000px;
+        font-size: 80%;
+    }
+    h3 {
+        font-size: 80%;
+    }
+    /* --------------------------------
+                meals section
+    -------------------------------- */
+    .section-meals {
+        height: 165px;
+        margin-left: -10%;
+    }
+    .meal-photo img:hover,
+    .meal-photo img:active {
+        transform: scale(1.06);
+    }
+    /* --------------------------------
+                steps section
+    -------------------------------- */
+    .section-steps {
+        font-size: 70%;
+        height: 850px;
+    }
+    .btn-app1 img {
+        height: 30px;
+        margin-right: 20px;
+    }
+    .btn-app2 img {
+        height: 32px;
+    }
+    .steps-box {
+        padding-right: 20px;
+    }
+    .app-screen {
+        height: 200px;
+        width: 100px;
+    }
+    /* --------------------------------
+                cities section
+    -------------------------------- */
+    .section-cities {
+        height: 1600px;
+        padding: 0 50px;
+        font-size: 60%;
+    }
+    /* --------------------------------
+                testimonials section
+    -------------------------------- */
+    .section-testimonials {
+        height: 800px;
+        padding: 0 20px;
+        font-size: 90%;
+    }
+    .section-testimonials blockquote {
+        margin: 0 10px;
+        font-size: 80%;
+    }
+    /* --------------------------------
+                plans section
+    -------------------------------- */
+    .section-plans {
+        height: 1300px;
+    }
+    .plan-box {
+        width: 95%;
+        margin: 0 7px;
+        font-size: 70%;
+    }
+    h2,
+    h4 {
+        margin: 50px;
+        font-size: 100%;
+    }
+    .section-plans .col {
+        padding: 10px 10px;
+    }
+    /* --------------------------------
+                form section
+    -------------------------------- */
+    .section-form {
+        height: 600px;
+        font-size: 80%;
+    }
+    /* --------------------------------
+                footer section
+    -------------------------------- */
+    footer {
+        height: 120px;
+        font-size: 60%;
+    }
+    footer p {
+        padding-top: 10px;
+    }
+    footer .col {
+        padding-bottom: 10px;
+    }
+    .social-links {
+        padding: 20px 150px 10px 0px;
+    }
+    .others {
+        padding-top: 10px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    /* --------------------------------
+                meals section
+    -------------------------------- */
+    .section-meals {
+        height: 155px;
+        margin-left: -15%;
+    }
+    .meal-photo img:hover,
+    .meal-photo img:active {
+        transform: scale(1.06);
+    }
+    .sticky .main-nav li a:link,
+    .sticky .main-nav li a:visited {
+        padding: 3px 0;
+    }
+    /* --------------------------------
+                cities section
+    -------------------------------- */
+    .section-cities {
+        height: 1400px;
+        padding: 0 50px;
+        font-size: 60%;
+    }
+    .sticky .logo-black {
+        height: 100px;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    /* --------------------------------
+                header section
+    -------------------------------- */
+    header {
+        height: 480px;
+        width: 1920;
+    }
+    .main-nav li {
+        margin: 0%;
+        display: block;
+        padding-bottom: 20px;
+    }
+    .main-nav {
+        margin-top: 35px;
+        font-size: 70%;
+        padding: 0%;
+    }
+    .hero-text-box {
+        font-size: 30%;
+        padding: 70px 50px 50px 50px;
+    }
+    .logo {
+        padding-top: 20px;
+        height: 100px;
+    }
+    .btn-full:link,
+    .btn-full:visited,
+    .btn-ghost:link,
+    .btn-ghost:visited {
+        margin-right: 10px;
+    }
+    .sticky {
+        height: 100px;
+    }
+    .sticky li {
+        padding-bottom: 2px;
+    }
+    .sticky .main-nav li a:link,
+    .sticky .main-nav li a:visited {
+        padding: 3px 0;
+    }
+    .sticky .logo-black {
+        height: 100px;
+    }
+    /* --------------------------------
+                features section
+    -------------------------------- */
+    .section-features {
+        padding: 0 10px;
+        height: 1020px;
+        font-size: 80%;
+    }
+    h3 {
+        font-size: 80%;
+    }
+    /* --------------------------------
+                meals section
+    -------------------------------- */
+    .section-meals {
+        height: 131px;
+        margin-left: -15%;
+    }
+    .meal-photo img:hover,
+    .meal-photo img:active {
+        transform: scale(1.06);
+    }
+    /* --------------------------------
+                steps section
+    -------------------------------- */
+    .section-steps {
+        font-size: 70%;
+        height: 850px;
+    }
+    .btn-app1 img {
+        height: 30px;
+        margin-right: 20px;
+    }
+    .btn-app2 img {
+        height: 32px;
+    }
+    .steps-box {
+        padding-right: 20px;
+    }
+    .app-screen {
+        height: 200px;
+        width: 100px;
+    }
+    /* --------------------------------
+                cities section
+    -------------------------------- */
+    .section-cities {
+        height: 1300px;
+        padding: 0 50px;
+        font-size: 60%;
+    }
+    /* --------------------------------
+                testimonials section
+    -------------------------------- */
+    .section-testimonials {
+        height: 850px;
+        padding: 0 20px;
+        font-size: 90%;
+    }
+    .section-testimonials blockquote {
+        margin: 0 10px;
+        font-size: 80%;
+    }
+    /* --------------------------------
+                plans section
+    -------------------------------- */
+    .section-plans {
+        height: 1300px;
+    }
+    .plan-box {
+        width: 95%;
+        margin: 0 7px;
+        font-size: 70%;
+    }
+    h2,
+    h4 {
+        margin: 50px;
+        font-size: 60%;
+    }
+    .section-plans .col {
+        padding: 10px 10px;
+    }
+    /* --------------------------------
+                form section
+    -------------------------------- */
+    .section-form {
+        height: 600px;
+        font-size: 80%;
+    }
+    /* --------------------------------
+                footer section
+    -------------------------------- */
+    footer {
+        height: 130px;
+        font-size: 60%;
+    }
+    footer p {
+        padding-top: 10px;
+    }
+    footer .col {
+        padding-bottom: 10px;
+    }
+    .social-links {
+        padding: 20px 120px 10px 0px;
+    }
+    /* ------------------------------
+             btn edits
+    ------------------------------- */
+    h4:after {
+        width: 100px;
+    }
+    h2:after {
+        width: 100px;
+    }
+}
