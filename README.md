@@ -15,7 +15,7 @@ I am eager to learn new skills every day. feel free to help me with improving th
 
 About me:
 
-sravanTG. Email: sravan148200@gmail.com
+sravanTG. Email: contact.sravantg@gmail.com
 
 computer science student.
 india.
