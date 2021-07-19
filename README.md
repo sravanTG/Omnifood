@@ -3,9 +3,9 @@ a trainee built website.
 
 this is a website built under a training course.
 
-hello every one..... Thankyou everyone for taking a look at this project. This is a training project built completely for learning purpose and to improve our skills. i started learning HTML and CSS technologies and wanted to build a project using just html and css. eventually a tiny bit of javascript was also used for animation purpose.
+hello every one..... Thankyou for taking a look at this project. This is a training project built completely for learning purpose and to improve my skills. i started learning HTML and CSS technologies and wanted to build a project using just html and css. eventually a tiny bit of javascript was also used for animation purpose.
 
-SITE NAME : omnifoodsravan
+SITE NAME : omnifood by sravan | a trainee built project.
 
 URL : https://omnifoodsravan.com
 
@@ -16,3 +16,6 @@ I am eager to learn new skills every day. feel free to help me with improving th
 About me:
 
 sravanTG. Email: sravan148200@gmail.com
+
+computer science student.
+india.
