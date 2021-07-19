@@ -351,14 +351,18 @@ a.btn-app2 {
 }
 
 .twitter:link,
-.twitter:visited {
+.twitter:visited,
+.project-link:link,
+.project-link:visited {
   text-decoration: none;
   color: rgb(0, 134, 211);
   padding-bottom: 1px;
 }
 
 .twitter:hover,
-.twitter:active {
+.twitter:active,
+.project-link:hover,
+.project-link:active {
   color: rgb(255, 255, 255);
   border-bottom: 2px solid transparent;
   transition: transform color 0.5s;
