@@ -1,7 +1,6 @@
 # omnifood
-A trainee built website.
 
-This is a website built under a training course.
+This is a website built under html and css course.
 
 Hello all..... Thankyou for taking a look at this project. This is a training project built completely for learning purpose and to improve my skills. i started learning HTML and CSS technologies and wanted to build a project using just html and css. eventually a tiny bit of javascript was also used for animation purpose.
 
